@@ -12,7 +12,7 @@ msg='Rich Admin 1.0.0'
 
 # 提交仓库地址
 
-githubUrl=https://gitee.com/shanpengnian/Rich-Admin.git
+githubUrl=git@github.com:shanpengnian/Rich-Admin.git
 
 
 git init
